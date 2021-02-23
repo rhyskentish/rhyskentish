@@ -11,9 +11,11 @@
 
 - 📝 I regularly write articles on [Medium](https://rhyskentish.medium.com/)
 
-### Blogs posts
+### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+[more blog posts...](https://rhyskentish.medium.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,6 +37,3 @@
  <a href="https://realm.io/" target="_blank"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
  <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
  </p>
-
-
-➡️ [more blog posts...](https://rhyskentish.medium.com/)
