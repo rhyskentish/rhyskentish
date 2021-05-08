@@ -13,11 +13,11 @@
 
 ### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Braintree Drop-In, Google Pay, and ThreeDSecure on Android](https://medium.com/geekculture/how-to-use-braintree-drop-in-google-pay-and-threedsecure-on-android-2f8c710abb5f?source=rss-ad14c8980ea8------2)
 - [Automate posting your Instagram photos on Reddit](https://itnext.io/automate-posting-your-instagram-photos-on-reddit-35c1be19d1e6?source=rss-ad14c8980ea8------2)
 - [How to customise the Braintree dropin UI in React Native](https://itnext.io/how-to-customise-the-braintree-dropin-ui-in-react-native-846364727dff?source=rss-ad14c8980ea8------2)
 - [Best games to play remotely during lockdown](https://rhyskentish.medium.com/best-games-to-play-remotely-during-lockdown-754413a01756?source=rss-ad14c8980ea8------2)
 - [Firebase App Distribution vs Testflight](https://itnext.io/firebase-app-distribution-vs-testflight-16ade1f6d349?source=rss-ad14c8980ea8------2)
-- [Build a Mobile App From Scratch](https://medium.com/swlh/build-a-mobile-app-from-scratch-e9623d373d11?source=rss-ad14c8980ea8------2)
 <!-- BLOG-POST-LIST:END -->
 
 [more blog posts...](https://rhyskentish.medium.com/)
